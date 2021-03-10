@@ -1,0 +1,20 @@
+{
+  "name": "feribot",
+  "version": "1.0.0",
+  "description": "# a bot to get instagram posts from Dominik Feri into Twitter using witterbot # I will learn to use ig api, node.js, heroku and create twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lksngy/feribot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lksngy/feribot/issues"
+  },
+  "homepage": "https://github.com/lksngy/feribot#readme"
+}

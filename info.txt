@@ -1,0 +1,12 @@
+Goal: create automatic twitter bot => feribot
+
+Main parts:
+    - instagram basic display API working - receive data, save it into mySQL or mongoDB
+    - decide - mySQL or MongoDB?
+    - node.js and database (mySQL or mongoDB) - basic setup
+    - twitter bot - connecting to the backend, learn how to send something to twitter - how to add new tweet
+    - build logic of 'ingest' from IG and update of twitter.
+    - create xml RSS on the web - xml package from npm
+    - create functinal solution anywhere
+    - deploy into 'PROD' - find out best solution for that
+    - docker? Heroku? Any other system? - try replit for this solution - how it is going to work on its own
